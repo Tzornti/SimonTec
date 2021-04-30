@@ -34,3 +34,10 @@ De lógica:
 ![alt text][logo2]
 
 [logo2]: https://github.com/Tzornti/SimonTec/raw/main/Imagenes/minimal.png "Logo Title Text 3"
+
+## Plan de Iteración
+EL plan de iteracion consite en ir resolviendo los procesos en un orden de izquierda a derecha, de arriba 
+hacia abajo como mostrado en el siguiente diagrama
+![alt text][logo3]
+
+[logo3]: https://github.com/Tzornti/SimonTec/raw/main/Imagenes/Iteracion.png "Logo Title Text 4"
