@@ -30,3 +30,7 @@ De lógica:
 
 [Logo1]: https://github.com/Tzornti/SimonTec/raw/main/Imagenes/Organizacion.png "Logo Title Text 2"
 
+## Minimal System Span
+![alt text][logo2]
+
+[logo2]: https://github.com/Tzornti/SimonTec/raw/main/Imagenes/minimal.png "Logo Title Text 3"
