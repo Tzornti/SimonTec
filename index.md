@@ -1,5 +1,5 @@
 # SimonTec
-##Descripción del problema
+## Descripción del problema
 
 SimonTec es un juego de memoria que consiste en un círculo compuesto de 
 cuatro cuadrantes, cada uno con un color: verde, rojo, azul y amarillo. 
@@ -28,4 +28,5 @@ De lógica:
 ## Clasificación según criticidad y frecuencia de uso
 ![alt text][logo1]
 
-[Logo1]: https://github.com/Tzornti/SimonTec/blob/main/Imagenes/Organizacion.png 
+[Logo1]: https://github.com/Tzornti/SimonTec/raw/main/Imagenes/Organizacion.png "Logo Title Text 2"
+
