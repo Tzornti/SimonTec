@@ -36,8 +36,33 @@ De lógica:
 [logo2]: https://github.com/Tzornti/SimonTec/raw/main/Imagenes/minimal.png "Logo Title Text 3"
 
 ## Plan de Iteración
-EL plan de iteracion consite en ir resolviendo los procesos en un orden de izquierda a derecha, de arriba 
+El plan de iteracion consite en ir resolviendo los procesos en un orden de izquierda a derecha, de arriba 
 hacia abajo como mostrado en el siguiente diagrama
+
 ![alt text][logo3]
 
 [logo3]: https://github.com/Tzornti/SimonTec/raw/main/Imagenes/Iteracion.png "Logo Title Text 4"
+
+## Diagrama conceptual
+El juego iluminara un cuadrante de la siguiente manera
+
+![alt text][logo5]
+
+[logo5]: https://github.com/Tzornti/SimonTec/raw/main/Imagenes/rojo.png "Logo Title Text 6"
+
+si el jugador acierta el juego subira de nivel repetira el patron e iluminara al final un nuevo cuadrante
+
+![alt text][logo6]
+
+[logo6]: https://github.com/Tzornti/SimonTec/raw/main/Imagenes/verde.png "Logo Title Text 7"
+
+en caso contrario se iluminara el centro y se volvera a empezar
+
+![alt text][logo7]
+
+[logo7]: https://github.com/Tzornti/SimonTec/raw/main/Imagenes/fail.png "Logo Title Text 8"
+
+## Diagrama de Clases
+![alt text][logo4]
+
+[logo4]: https://github.com/Tzornti/SimonTec/raw/main/Imagenes/diagramclass.png "Logo Title Text 5"
