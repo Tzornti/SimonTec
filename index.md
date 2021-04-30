@@ -26,3 +26,6 @@ De lógica:
 * Reiniciar valores
 
 ## Clasificación según criticidad y frecuencia de uso
+![alt text][logo1]
+
+[Logo1]: https://github.com/Tzornti/SimonTec/blob/main/Imagenes/Organizacion.png 
