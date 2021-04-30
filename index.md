@@ -1,1 +1,28 @@
+# SimonTec
+##Descripción del problema
 
+SimonTec es un juego de memoria que consiste en un círculo compuesto de 
+cuatro cuadrantes, cada uno con un color: verde, rojo, azul y amarillo. 
+El juego de forma aleatoria va iluminando los cuadrantes de colores. 
+Después de esperar, el usuario debe ir introduciendo las ecuencia mostrada 
+en el orden correcto. Si lo consigue, este responderá con una secuencia 
+más larga, y así sucesivamente.Si falla, perderá el juego y deberá empezar 
+de nuevo
+
+## Historias de Usuario
+
+Se dividen en dos tipos. 
+<br>
+De Interfaz:<br>
+* Cuatro botones de colores
+* Contador de nivel
+* Circulo relleno
+
+De lógica:
+* Elegir aleatoriamente un color
+* Agregar el color al patron
+* Comparar patrones
+* Aumentar velocidad
+* Reiniciar valores
+
+## Clasificación según criticidad y frecuencia de uso
